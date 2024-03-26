@@ -12,8 +12,4 @@
         "dest": "main.py"
       }
     ]
-    {
-        "buildCommand": "next build"
-      }
-
   }
